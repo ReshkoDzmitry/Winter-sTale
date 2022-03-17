@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Winter-s-Tale/static/css/main.e6c13ad2.css",
+    "main.js": "/Winter-s-Tale/static/js/main.5da378bc.js",
+    "index.html": "/Winter-s-Tale/index.html",
+    "main.e6c13ad2.css.map": "/Winter-s-Tale/static/css/main.e6c13ad2.css.map",
+    "main.5da378bc.js.map": "/Winter-s-Tale/static/js/main.5da378bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5da378bc.js"
+  ]
+}
