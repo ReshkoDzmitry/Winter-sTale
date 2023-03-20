@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Winter-sTale/static/css/main.e6c13ad2.css",
-    "main.js": "/Winter-sTale/static/js/main.5da378bc.js",
+    "main.js": "/Winter-sTale/static/js/main.bec8e37e.js",
     "index.html": "/Winter-sTale/index.html",
     "main.e6c13ad2.css.map": "/Winter-sTale/static/css/main.e6c13ad2.css.map",
-    "main.5da378bc.js.map": "/Winter-sTale/static/js/main.5da378bc.js.map"
+    "main.bec8e37e.js.map": "/Winter-sTale/static/js/main.bec8e37e.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5da378bc.js"
+    "static/js/main.bec8e37e.js"
   ]
 }
