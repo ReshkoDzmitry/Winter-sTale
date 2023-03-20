@@ -14,7 +14,7 @@
     "react-scripts": "5.0.0",
     "styled-components": "^5.3.3"
   },
-  "homepage": "https://ReshkoDzmitry.github.io/Winter-s-Tale",
+  "homepage": "https://ReshkoDzmitry.github.io/Winter-sTale",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
